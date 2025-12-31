@@ -1,6 +1,7 @@
 ## Folder structure of this repository
  - dc: Documents
  - dc/im: Images
+ - ds: Dataset repository
  - fw: Firmware
  - hw: Hardware
  - sw: Software on the computer
